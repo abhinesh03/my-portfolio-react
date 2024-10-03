@@ -1,0 +1,84 @@
+{
+    "basic_info": {
+      "name": "Abhinesh Kumar Yadav",
+      "titles": [ "Front-end Developer", "Software Developer"],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/abhinesh03",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com",
+          "class": "fab fa-instagram"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "React.Js",
+          "class": "devicon-react-plain",
+          "level": "60"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain",
+          "level": "60"
+        },
+      
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
+        },
+        
+      
+        {
+          "name": "Java",
+          "class": "devicon-java-plain",
+          "level": "60"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        },
+        {
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain",
+          "level": "63"
+        },
+        {
+          "name": "Node.Js",
+          "class": "devicon-nodejs-plain",
+          "level": "90"
+        },
+        {
+          "name": "JQuery",
+          "class": "devicon-jquery-plain",
+          "level": "90"
+        }
+         
+        
+
+      ]
+    }
+  }

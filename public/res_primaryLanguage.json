@@ -1,0 +1,162 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+        "description": "👋 I'm Abhinesh Kumar Yadav. I work with the latest front-end frameworks & library like React, jQuery, Bootstrap, Vue.js, Tailwind CSS. Thanks ",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Hotel Management Application",
+        "startDate": "2024",
+        "description": " Designed and developed: The Wild Oasis, a comprehensive hotel management application with various advanced features and customization options",
+        "images": [
+          "https://the-wild-oasis.vercel.app/logo-light.png",
+          "https://the-wild-oasis.vercel.app/logo-light.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React.Js"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          }
+
+        ]
+      },
+      {
+        "title": "Forkify Recipe Application",
+        "startDate": "2023",
+        "description": "Personal project for study subject. A web-based pizza recipe application allowing users to search for pizza recipes, view detailed instructions, and generate shopping lists based on selected recipes, technologies used HTML, CSS, JAVASCRIPT.   :)",
+        "images": [
+          "https://forkify-v2.netlify.app/logo.09084f39.png",
+          "https://forkify-v2.netlify.app/logo.09084f39.png"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          }
+          
+        ]
+      },
+      {
+        "title": "Mapty Fitness Tracker",
+        "startDate": "2023",
+        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows fitness application  models. This was also my first project in Angular framework. I've learned a lot!",
+        "images": [
+          "https://maptyfitnesstracker.netlify.app/logo.png",
+          "https://maptyfitnesstracker.netlify.app/logo.png"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Dimension Angle Technology",
+        "title": "Front-End Developer",
+        "years": "07.2024 - present",
+        "mainTech": [
+          "React.Js 8/9/10"
+        ],
+        "technologies": [
+          "REST API",
+          "React.Js",
+          "JavaScript",
+          "Bootstrap",
+          "MySQL",
+          "Node.Js",
+          "HTML",
+          "CSS",
+          "MongoDB",
+          "Express.Js",
+          "PHP"
+        ]
+      },
+       
+      {
+        "company": "Keen And Able Computer Pvt. Ltd.",
+        "title": "Intern",
+        "years": "04.2024 - 06.2024",
+        "mainTech": [
+          "React 7/8"
+        ],
+        "technologies": [
+          "REST API",
+          "React.Js",
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "MySQL",
+          "MongoDB"
+        ]
+      },
+      {
+        "company": "HashedBit",
+        "title": "Intern",
+        "years": "10.2024 - 12.2024",
+        "mainTech": [
+          "React 7/8"
+        ],
+        "technologies": [
+          "REST API",
+          "React.Js",
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "MySQL",
+          "MongoDB"
+        ]
+      }
+    ]
+  }
